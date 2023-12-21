@@ -10,7 +10,6 @@
 - Game Dev enthusiast
 - DSA aficionado proficient in C, C++, Python, Java
 - Creating intuitive designs⭐👨‍💻
-- 
 <!---
 30rupesh/30rupesh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
